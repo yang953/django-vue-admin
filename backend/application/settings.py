@@ -57,6 +57,8 @@ INSTALLED_APPS = [
     "dvadmin.system",
     "drf_yasg",
     "captcha",
+    "apitest",
+    "webtest",
 ]
 
 MIDDLEWARE = [
